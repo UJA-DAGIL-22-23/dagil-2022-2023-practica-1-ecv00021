@@ -1,14 +1,8 @@
-# Plantilla Práctica 1
-Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.
+### Documentación Práctica 1
 
-Tus tareas consisten en:
-1) Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.
-2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
+### Datos personales
+Nombre: Elena 
 
-### Elena Carmona Vallecillo
-<img src='/foto.jpg' width='200px'>
+Apellidos: Carmona Vallecillo
 
-Estudiante del grado de Informática de la Universidad de Jaén.
-* **Correo**: ecv00021@red.ujaen.es
-* **GitHub**: https://github.com/ecv00021
-* **Trello**: https://trello.com/u/ecv00021/boards
+Dirección de correo: ecv00021@red.ujaen.es
