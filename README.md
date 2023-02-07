@@ -6,3 +6,5 @@ Nombre: Elena
 Apellidos: Carmona Vallecillo
 
 Dirección de correo: ecv00021@red.ujaen.es
+
+<img src='/foto.jpg' width='200px'>
